@@ -1,1 +1,1 @@
-[test](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg)
+[![OS](https://skillicons.dev/icons?i=arch,windows&perline=3)](https://skillicons.dev)
