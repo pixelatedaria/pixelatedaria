@@ -9,3 +9,4 @@
 # IDE
 [![IDE](https://skillicons.dev/icons?i=vscode,visualstudio&perline=2)](https//skillicons.dev)
 # Currently Learning
+[![CL](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
